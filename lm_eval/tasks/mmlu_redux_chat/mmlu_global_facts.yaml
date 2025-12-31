@@ -1,0 +1,5 @@
+"dataset_name": "global_facts"
+"tag": "mmlu_redux_other_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_global_facts_generative_chat"
+"task_alias": "global_facts"

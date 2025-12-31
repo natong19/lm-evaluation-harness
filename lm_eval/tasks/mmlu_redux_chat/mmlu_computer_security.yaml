@@ -1,0 +1,5 @@
+"dataset_name": "computer_security"
+"tag": "mmlu_redux_stem_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_computer_security_generative_chat"
+"task_alias": "computer_security"

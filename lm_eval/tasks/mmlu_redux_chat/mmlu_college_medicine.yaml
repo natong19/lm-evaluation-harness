@@ -1,0 +1,5 @@
+"dataset_name": "college_medicine"
+"tag": "mmlu_redux_other_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_college_medicine_generative_chat"
+"task_alias": "college_medicine"

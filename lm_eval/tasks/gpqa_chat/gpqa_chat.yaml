@@ -1,0 +1,9 @@
+group: gpqa_chat
+task:
+  - gpqa_diamond_chat
+  - gpqa_extended_chat
+  - gpqa_main_chat
+aggregate_metric_list:
+  - metric: exact_match
+    aggregation: mean
+    weight_by_size: true

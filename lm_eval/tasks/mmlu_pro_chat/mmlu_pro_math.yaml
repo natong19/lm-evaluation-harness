@@ -1,0 +1,4 @@
+include: "_default_template_yaml"
+task: "mmlu_pro_math_chat"
+task_alias: "math"
+process_docs: !function utils.process_math

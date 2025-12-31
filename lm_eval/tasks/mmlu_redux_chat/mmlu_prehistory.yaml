@@ -1,0 +1,5 @@
+"dataset_name": "prehistory"
+"tag": "mmlu_redux_humanities_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_prehistory_generative_chat"
+"task_alias": "prehistory"

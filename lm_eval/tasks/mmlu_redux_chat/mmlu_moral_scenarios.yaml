@@ -1,0 +1,5 @@
+"dataset_name": "moral_scenarios"
+"tag": "mmlu_redux_humanities_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_moral_scenarios_generative_chat"
+"task_alias": "moral_scenarios"

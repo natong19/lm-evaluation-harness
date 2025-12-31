@@ -1,0 +1,5 @@
+"dataset_name": "electrical_engineering"
+"tag": "mmlu_redux_stem_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_electrical_engineering_generative_chat"
+"task_alias": "electrical_engineering"

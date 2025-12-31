@@ -1,0 +1,15 @@
+group: benchmark_chat
+task:
+  - mmlu_redux_chat
+  - mmlu_pro_chat
+  - gpqa_diamond_chat
+  - ifeval_chat
+  - eq_bench_chat
+  - gsm8k_chat
+  - math500_chat
+  - humaneval_chat
+  - mbpp_chat
+aggregate_metric_list:
+  - metric: exact_match
+    aggregation: mean
+    weight_by_size: true

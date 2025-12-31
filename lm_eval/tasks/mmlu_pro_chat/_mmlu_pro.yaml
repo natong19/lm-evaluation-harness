@@ -1,0 +1,20 @@
+group: mmlu_pro_chat
+task:
+  - mmlu_pro_biology_chat
+  - mmlu_pro_business_chat
+  - mmlu_pro_chemistry_chat
+  - mmlu_pro_computer_science_chat
+  - mmlu_pro_economics_chat
+  - mmlu_pro_engineering_chat
+  - mmlu_pro_health_chat
+  - mmlu_pro_history_chat
+  - mmlu_pro_law_chat
+  - mmlu_pro_math_chat
+  - mmlu_pro_other_chat
+  - mmlu_pro_philosophy_chat
+  - mmlu_pro_physics_chat
+  - mmlu_pro_psychology_chat
+aggregate_metric_list:
+  - aggregation: mean
+    metric: exact_match
+    weight_by_size: true

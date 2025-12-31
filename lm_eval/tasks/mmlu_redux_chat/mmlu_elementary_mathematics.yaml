@@ -1,0 +1,5 @@
+"dataset_name": "elementary_mathematics"
+"tag": "mmlu_redux_stem_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_elementary_mathematics_generative_chat"
+"task_alias": "elementary_mathematics"

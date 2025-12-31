@@ -1,0 +1,5 @@
+"dataset_name": "public_relations"
+"tag": "mmlu_redux_social_sciences_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_public_relations_generative_chat"
+"task_alias": "public_relations"

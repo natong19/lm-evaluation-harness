@@ -1,0 +1,5 @@
+"dataset_name": "high_school_macroeconomics"
+"tag": "mmlu_redux_social_sciences_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_high_school_macroeconomics_generative_chat"
+"task_alias": "high_school_macroeconomics"

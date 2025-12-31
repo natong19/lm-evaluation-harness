@@ -1,0 +1,5 @@
+"dataset_name": "clinical_knowledge"
+"tag": "mmlu_redux_other_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_clinical_knowledge_generative_chat"
+"task_alias": "clinical_knowledge"

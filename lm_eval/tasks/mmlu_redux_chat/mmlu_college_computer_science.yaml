@@ -1,0 +1,5 @@
+"dataset_name": "college_computer_science"
+"tag": "mmlu_redux_stem_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_college_computer_science_generative_chat"
+"task_alias": "college_computer_science"

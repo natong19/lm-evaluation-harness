@@ -1,0 +1,5 @@
+"dataset_name": "abstract_algebra"
+"tag": "mmlu_redux_stem_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_abstract_algebra_generative_chat"
+"task_alias": "abstract_algebra"

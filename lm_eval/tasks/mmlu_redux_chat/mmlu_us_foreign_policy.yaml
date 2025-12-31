@@ -1,0 +1,5 @@
+"dataset_name": "us_foreign_policy"
+"tag": "mmlu_redux_social_sciences_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_us_foreign_policy_generative_chat"
+"task_alias": "us_foreign_policy"

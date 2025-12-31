@@ -1,0 +1,5 @@
+"dataset_name": "logical_fallacies"
+"tag": "mmlu_redux_humanities_generative_chat"
+"include": "_default_template_yaml"
+"task": "mmlu_redux_logical_fallacies_generative_chat"
+"task_alias": "logical_fallacies"
